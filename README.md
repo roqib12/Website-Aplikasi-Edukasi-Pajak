@@ -5,16 +5,16 @@ Aplikasi ini terdiri dari 2 bagian Data Pengguna Pajak dan Data Pajak.
 ## Data Pengguna Pajak
 Data Pengguna Pajak adalah aplikasi sederhana untuk mengelola data administrasi pengguna pajak secara digital. Dilengkapi dengan beberapa fitur, antara lain:
 
-- Rekap data siswa
-- Cetak detail data siswa (format Excel)
+- Rekap data pengguna pajak
+- Cetak detail data pengguna pajak (format Excel)
 - Ajax search pada homepage
 
 ## Data Pajak
 Data Pajak adalah aplikasi sederhana untuk mengelola data hasil perhitungan pph21. Dilengkapi dengan beberapa fitur, antara lain:
 
 - Menggunakan database yang sama dengan Data Pengguna Pajak
-- Rekap data printer
-- Cetak detail data printer (format Excel)
+- Rekap data pajak
+- Cetak detail data pajak (format Excel)
 - Menggunakan perhitungan kalkulator pph21
 
 Kedua Aplikasi ini dibuat menggunakan PHP Native, bootstrap, jquery datatables, ajax, beberapa library php serta menggunakan environtment php 7.
